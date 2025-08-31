@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Lakshayakanna K!
 <p align="center">
   <img src="your-image-file.png" alt="My Profile Image" width="200"/>
 </p>
