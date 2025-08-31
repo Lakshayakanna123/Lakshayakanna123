@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-image-file.png" alt="My Profile Image" width="200"/>
+  <img src="ChatGPT Image Aug 31, 2025, 08_08_23 PM.png" alt="My Profile Image" width="200"/>
 </p>
 
 # 👋 Hi, I'm Lakshayakanna K!
