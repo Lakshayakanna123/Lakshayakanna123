@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Lakshayakanna K!
+<p align="center">
+  <img src="your-image-file.png" alt="My Profile Image" width="200"/>
+</p>
 
+# 👋 Hi, I'm Lakshayakanna K!
+
+Welcome to my GitHub space! I'm an enthusiastic student and intern passionate about leveraging Artificial Intelligence, Machine Learning, and advanced computational systems to solve real-world problem[...]
 Welcome to my GitHub space! I'm an enthusiastic student and intern passionate about leveraging Artificial Intelligence, Machine Learning, and advanced computational systems to solve real-world problems.
 
 ## 🚀 About Me
