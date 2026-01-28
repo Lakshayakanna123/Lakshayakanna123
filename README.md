@@ -65,8 +65,7 @@ Welcome to my GitHub space! I'm an enthusiastic student and intern passionate ab
 
 ## 📬 Contact & Links
 
-- 📞 Phone: 7806877730
-- 📧 Email: k.lakshayakanna@gmail.com
+- 📧 Email: lakshayakannakumar@gmail.com
 - 🏢 Location: Coimbatore, India
 - 🌐 [GitHub](https://github.com/Lakshayakanna123)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakshayakanna-kumar-a831b2210?trk=contact-info)
