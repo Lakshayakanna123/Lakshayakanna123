@@ -2,7 +2,7 @@
   <img src="ChatGPT Image Aug 31, 2025, 08_08_23 PM.png" alt="My Profile Image" width="200"/>
 </p>
 
-# 👋 Hi, I'm Lakshayakanna K!
+# 👋 Hi, I'm Lakshay!
 
 Welcome to my GitHub space! I'm an enthusiastic student and intern passionate about leveraging Artificial Intelligence, Machine Learning, and advanced computational systems to solve real-world problem[...]
 Welcome to my GitHub space! I'm an enthusiastic student and intern passionate about leveraging Artificial Intelligence, Machine Learning, and advanced computational systems to solve real-world problems.
