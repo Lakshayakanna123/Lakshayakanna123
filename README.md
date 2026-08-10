@@ -1,75 +1,52 @@
 <p align="center">
-  <img src="ChatGPT Image Aug 31, 2025, 08_08_23 PM.png" alt="My Profile Image" width="200"/>
+  <img src="ChatGPT Image Aug 31, 2025, 08_08_23 PM.png" alt="Profile Image" width="200"/>
 </p>
 
-# 👋 Hi, I'm Lakshay!
+# Lakshayakanna Kumar
 
-Welcome to my GitHub space! I'm an enthusiastic student and intern passionate about leveraging Artificial Intelligence, Machine Learning, and advanced computational systems to solve real-world problem[...]
-Welcome to my GitHub space! I'm an enthusiastic student and intern passionate about leveraging Artificial Intelligence, Machine Learning, and advanced computational systems to solve real-world problems.
+I build systems that learn, reason, and deliver. Focused on artificial intelligence, machine learning, and reliable tooling. Clear objectives. Measured outcomes.
 
-## 🚀 About Me
+## Summary
 
-- 🎓 **Education:** BSc in Artificial Intelligence and Machine Learning (First Class with Distinction), Bharathiyar University (KASC), 2025
-- 💼 **Professional Experience:**
-  - **Larsen & Toubro:** 1-month internship and NLP project (PDF extraction, semantic search, BERT contract clause retrieval, RAG)
-  - **Gateway Software Solutions:** Part-time trainee (Insightory: automated inventory & report generation, ML, DL, Data Science, Visualization, Python scripts, Linux)
-  - **Robo Miracle:** IoT internship & project (Cloud Planting: automated water irrigation with ESP8266 + Arduino Uno)
-- 🏆 **Certifications:**
-  - Nikist Hacker Club (Ethical Hacking Workshop)
-  - UI Path Automation Development
-  - Debugging Competition (2nd Prize)
-  - MongoDB Atlas
-  - Microsoft Custom Vision Service
-  - DSA Simplilearn
-  - Mathematics for ML (Scalar)
-- 🌱 Currently learning: Deep Learning, NLP, Data Visualization, Advanced Python, Ethical Hacking
-- 🛠️ **Technical Skills:**  
-  - Python (AI, ML, DL, Data Science)
-  - C, C++, Java, R, SQL, MongoDB
-  - Web Development (HTML, CSS, JS)
-  - Excel, Power BI, Presentation, Word
-  - Research, Marketing
+- Degree: BSc — Artificial Intelligence & Machine Learning, Bharathiyar University (2025)
+- Focus: NLP, Deep Learning, Retrieval-Augmented Generation, applied ML systems
+- Approach: pragmatic experimentation, reproducible pipelines, concise reporting
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjVma3N5MmwxYW1vNmxpdHN1ZHVwanFkeDhwNHR0d2xhdGE2bWpydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/14bhmZtBNhVnIk/giphy.gif" alt="Batman Classic GIF" width="400"/>
-</p>
+## Experience
 
-## 💡 Soft Skills
+- Larsen & Toubro — Internship: NLP pipeline, PDF extraction, semantic search, BERT-based clause retrieval (RAG)
+- Gateway Software Solutions — Trainee: automation, inventory/report generation, ML/DL workflows
+- Robo Miracle — IoT: automated irrigation system (ESP8266, Arduino)
 
-- Critical Thinking
-- Communication
-- Observation
-- Persuasion
-- Stress Management
-- Teamwork
+## Selected Projects
 
-## 🌟 Projects & Highlights
+- Contract Clause Identifier & Retrieval — BERT, semantic search, RAG
+- Cloud Planting System — IoT control and automation
+- Insightory — Automated inventory and reporting pipeline
+- Assorted ML/DL and data-visualization experiments
 
-- **Contract Clause Identifier & Retrieval (NLP, BERT, RAG)**
-- **Cloud Planting System (IoT, ESP8266, Arduino)**
-- **Insightory (Automated Inventory & Report Generation)**
-- **Various Mini-projects in ML, DL, Data Science, Visualization**
+## Skills
 
-## 📈 GitHub Stats
+Languages & tooling: Python, C, C++, Java, R, SQL, MongoDB, Linux
+Machine Learning: PyTorch/TensorFlow, Transformers, NLP, RAG
+Engineering: data pipelines, automation, evaluation metrics, reproducibility
 
-![Lakshayakanna123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshayakanna123&show_icons=true&hide_title=true)
-
-## 📚 Certifications
+## Certifications
 
 - Ethical Hacking Workshop (Nikist Hacker Club)
-- UI Path Automation
+- UI Path Automation Development
 - MongoDB Atlas
 - Microsoft Custom Vision
-- DSA by Simplilearn
-- Mathematics for ML by Scalar
+- DSA (Simplilearn)
+- Mathematics for ML (Scalar)
 
-## 📬 Contact & Links
+## Contact
 
-- 📧 Email: lakshayakannakumar@gmail.com
-- 🏢 Location: Coimbatore, India
-- 🌐 [GitHub](https://github.com/Lakshayakanna123)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lakshayakanna-kumar-a831b2210?trk=contact-info)
+- Email: lakshayakannakumar@gmail.com
+- Location: Coimbatore, India
+- GitHub: https://github.com/Lakshayakanna123
+- LinkedIn: https://www.linkedin.com/in/lakshayakanna-kumar-a831b2210
 
 ---
 
-**Let's connect, collaborate, and create impactful solutions together!**
+I prefer signal over noise. If you have a problem to solve, state the objective and the constraints. I will respond with a plan and results.
