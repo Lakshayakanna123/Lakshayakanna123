@@ -1,6 +1,6 @@
 # Lakshayakanna K
 
-Chennai, India • +91 78068 77730 • lakshayakannakumar@gmail.com  
+Chennai, India • lakshayakannakumar@gmail.com  
 https://linkedin.com/in/lakshayakanna-kumar-a831b2210
 
 ---
@@ -19,12 +19,12 @@ Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundati
 
 ## Education
 
-- Master of Computer Applications (MCA) — Generative Artificial Intelligence
-  SRM Institute of Science and Technology, Ramapuram Campus, Chennai
+- Master of Computer Applications (MCA) — Generative Artificial Intelligence  
+  SRM Institute of Science and Technology, Ramapuram Campus, Chennai  
   (2025 – Present)
 
-- Bachelor of Science (B.Sc.) — Artificial Intelligence and Machine Learning
-  Bharathiyar University (KASC), Coimbatore
+- Bachelor of Science (B.Sc.) — Artificial Intelligence and Machine Learning  
+  Bharathiyar University (KASC), Coimbatore  
   (2022 – 2025) — First Class with Distinction
 
 ## Work Experience
@@ -92,10 +92,8 @@ Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundati
 
 ## Contact
 
-Chennai, India • +91 78068 77730 • lakshayakannakumar@gmail.com
-GitHub: https://github.com/Lakshayakanna123
+Chennai, India • lakshayakannakumar@gmail.com  
+GitHub: https://github.com/Lakshayakanna123  
 LinkedIn: https://linkedin.com/in/lakshayakanna-kumar-a831b2210
 
 ---
-
-If you have a technical problem, state the objective and constraints. I will deliver a plan and outcomes.
