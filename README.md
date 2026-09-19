@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4DA3FF&center=true&vCenter=true&width=700&lines=Generative+AI+Postgraduate+Student;B.Sc.+AI%2FML+Graduate;AI%2C+ML%2C+GenAI+%26+Cybersecurity+Enthusiast" alt="Lakshayakanna K typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=FF5A5F&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer;Cybersecurity+%26+Ethical+Hacking+Focus;AI%2FML+Graduate+%7C+Full-Stack+Builder" alt="Lakshayakanna K banner" />
 </p>
 
 <h1 align="center">Lakshayakanna K</h1>
 
 <p align="center">
-  <a href="https://github.com/Lakshayakanna123"><img src="https://img.shields.io/badge/GitHub-Lakshayakanna123-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/Lakshayakanna123"><img src="https://img.shields.io/badge/GitHub-Lakshayakanna123-0D1117?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/lakshayakanna-kumar-a831b2210"><img src="https://img.shields.io/badge/LinkedIn-Lakshayakanna-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:lakshayakannakumar@gmail.com"><img src="https://img.shields.io/badge/Email-lakshayakannakumar%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshayakanna123&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Lakshayakanna123&label=Profile+Views&color=FF5A5F&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -20,11 +20,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-0E75B6?style=flat-square" alt="Location Chennai, India" />
-  <img src="https://img.shields.io/badge/MCA-Generative%20AI-0E75B6?style=flat-square" alt="MCA Generative AI" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20GenAI-0E75B6?style=flat-square" alt="Focus AI ML GenAI" />
+  <img src="https://img.shields.io/badge/MCA-Generative%20AI-FF5A5F?style=flat-square" alt="MCA Generative AI" />
+  <img src="https://img.shields.io/badge/B.Sc.-AI%2FML-1F6FEB?style=flat-square" alt="BSc AI ML" />
 </p>
 
-Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundations in Artificial Intelligence, Machine Learning, and full-stack software development optimized for enterprise systems. I am passionate about building intelligent, scalable, and security-aware applications across AI, web, and automation domains.
+Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundations in Artificial Intelligence, Machine Learning, and full-stack software development optimized for enterprise systems. My work bridges AI, cybersecurity, secure application design, and intelligent automation for real-world business and operational use cases.
 
 ---
 
@@ -34,21 +34,21 @@ Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundati
   <tr>
     <td width="50%" align="center">
       <b>Current Focus</b><br>
-      Generative AI, NLP, AI/ML, cybersecurity, and full-stack development
+      Generative AI, NLP, security-focused automation, and enterprise AI systems
     </td>
     <td width="50%" align="center">
       <b>Learning</b><br>
-      LLMs, RAG, Agentic Workflows, MCP, prompt engineering, and applied AI systems
+      LLMs, RAG, Agentic Workflows, MCP, Prompt Engineering, and applied AI security workflows
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <b>Projects</b><br>
-      Smart automation, AI-driven threat detection, enterprise document intelligence
+      Smart task systems, malware blocking, threat intelligence agents, and document intelligence platforms
     </td>
     <td width="50%" align="center">
       <b>Open to Collaboration</b><br>
-      AI product development, cybersecurity projects, and intelligent web solutions
+      AI product development, cybersecurity projects, and intelligent full-stack solutions
     </td>
   </tr>
 </table>
@@ -93,24 +93,19 @@ Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundati
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,r,sql,powershell" alt="Programming languages" />
 </p>
 
-### AI / ML
+### AI / ML / GenAI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,linux" alt="AI and machine learning tools" />
 </p>
 
-### NLP / GenAI
+### Web & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,linux" alt="NLP and GenAI related tools" />
-</p>
-
-### Web & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,fastapi,flask" alt="Web frontend backend and database stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,fastapi,flask" alt="Frontend backend and database stack" />
 </p>
 
 ### Cybersecurity & Networking
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,ubuntu" alt="Cybersecurity and networking tools" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github" alt="Cybersecurity and networking tools" />
 </p>
 
 - Programming: Python, JavaScript, TypeScript, Java, C, C++, R, SQL, PowerShell
@@ -133,7 +128,7 @@ Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundati
 
 ---
 
-## Work Experience
+## Experience
 
 ### Cybersecurity & Ethical Hacking Intern — Supraja Technologies (Jan 2026 – Present)
 
@@ -160,7 +155,7 @@ Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundati
 
 ---
 
-## Achievements & Leadership
+## Leadership & Achievements
 
 - Production Deployments: Delivered full-stack web applications and AI tools from development to live production environments for freelance clients and organizational projects.
 - Innovation Leadership: Student contributor and coordinator with the College Innovation Cell; mentored project teams and organized technical events.
@@ -183,12 +178,12 @@ Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundati
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshayakanna123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayakanna123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshayakanna123&show_icons=true&theme=dark&hide_border=true&title_color=FF5A5F&icon_color=FF5A5F&text_color=F3F4F6&bg_color=0D1117" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshayakanna123&layout=compact&theme=dark&hide_border=true&title_color=FF5A5F&text_color=F3F4F6&bg_color=0D1117" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshayakanna123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshayakanna123&theme=dark&hide_border=true&stroke=FF5A5F&ring=FF5A5F&fire=FF5A5F&currStreakLabel=FF5A5F" alt="GitHub Streak" />
 </p>
 
 ---
@@ -208,5 +203,5 @@ Generative AI postgraduate student and B.Sc. AI/ML graduate with strong foundati
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20learning-AI%20%7C%20ML%20%7C%20Cybersecurity-0E75B6?style=flat-square" alt="Always learning AI ML cybersecurity" />
+  <img src="https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20Cybersecurity-Driven%20by%20problem%20solving-FF5A5F?style=flat-square" alt="AI ML Cybersecurity driven by problem solving" />
 </p>
